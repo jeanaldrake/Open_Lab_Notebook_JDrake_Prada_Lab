@@ -1,6 +1,6 @@
 *Open Science*
 
-This [open lab notebook](https://mass-lab.github.io/Open_Lab_Notebook_Mass_Lab/) contains analyses and products related to the work carried out at the [Mass Lab](https://sites.google.com/marsci.haifa.ac.il/masslab/home?authuser=0/) (Coral Biomineralization and Physiology).
+This [open lab notebook](https://github.com/jeanaldrake/Open_Lab_Notebook_JDrake_Prada_Lab) contains analyses and products related to the work carried out at the [Prada Lab](https://pradalabrutgers.weebly.com/) (Benthic Ecology Research).
 This notebook is platformed on GitHub and it is directly linked to GitHub repositories that contain further details presented in notebook posts. 
 
 <p align="center">
