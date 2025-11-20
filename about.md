@@ -6,16 +6,16 @@ permalink: /about/
 
 ### More Information
 
-[Mass Lab Website](https://sites.google.com/marsci.haifa.ac.il/masslab/home?authuser=0/)  
+[Prada Lab Website](https://pradalabrutgers.weebly.com/)  
 
 ### Contact
 
-Coral Biomineralization and Physiology 
+Benthic ECOlogy ReseArch Lab (BECORAL) 
 
-Tel - Inside Univ: 8977
+Department of Marine and Coastal Sciences
 
-Tel - Out of Univ: +972-4-8288977
+71 Dudley Road, New Brunswick, NJ 08901 USA
 
-Room: 269, Multipurpose Building
+Email: jeana.drake@marine.rutgers.edu
 
-Email: tmass@univ.haifa.ac.il
+[JLDrake CV 2025.pdf](https://github.com/user-attachments/files/23661407/JLDrake.CV.2025.pdf)
