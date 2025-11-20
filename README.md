@@ -1,6 +1,6 @@
 *Open Science*
 
-This [open lab notebook](https://github.com/jeanaldrake/Open_Lab_Notebook_JDrake_Prada_Lab) contains analyses and products related to the work carried out at the [Prada Lab](https://pradalabrutgers.weebly.com/) (Benthic Ecology Research).
+This [open lab notebook](https://jeanaldrake.github.io/Open_Lab_Notebook_JDrake_Prada_Lab/) contains analyses and products related to the work carried out at the [Prada Lab](https://pradalabrutgers.weebly.com/) (Benthic Ecology Research).
 This notebook is platformed on GitHub and it is directly linked to GitHub repositories that contain further details presented in notebook posts. 
 
 <p align="center">
